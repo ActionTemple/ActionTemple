@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3-blue?logo=python)
+![C](https://img.shields.io/badge/C-CS50x-lightgrey?logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-orange)
+![Remote](https://img.shields.io/badge/Open%20to-Remote%20Work-brightgreen)
+
 **About Me**
 
 CS graduate with a background in teaching transitioning to software development.
@@ -11,7 +17,8 @@ Keeping with the retro-computing theme, I'm working on a scrolling ASCII text de
 
 **What I Work With:**
 - **Python** - primary language, comfortable with OOP, libraries, testing
-- **C** - currently studying via CS50x for fundamentals  
+- **C** - currently studying via CS50x for fundamentals 
+- **Javascript/HTML/CSS** - some practice with these - see [Scrolling Demo](https://github.com/ActionTemple/Scrolling-Demo-Javascript) 
 - **Tools** - Git, VS Code, Linux environment
 
 **What I Bring Beyond Code:**
