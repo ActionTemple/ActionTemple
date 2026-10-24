@@ -12,13 +12,17 @@ You can have a go at the Flask web version [here](https://andrew-waddington.onre
 
 **What I'm doing at the moment**
 
-Right now I'm in the early stages of CS50x, studying C.
-Keeping with the retro-computing theme, I'm working on a scrolling ASCII text demo, based on Pyfiglet fonts, where the user will be able to input their own message and change the colour theme and scroll speed.
+Right now I'm at the final stage of CS50x, having studied C, SQL, Python, Javascript, HTML, and CSS.
+For my final project I'm working on an Ethereum Block Explorer website, where the user is able to input an ether address and view data 
+related to transactions, balances, and associated addresses.
 
 **What I Work With:**
 - **Python** - primary language, comfortable with OOP, libraries, testing
-- **C** - currently studying via CS50x for fundamentals 
-- **Javascript/HTML/CSS** - some practice with these - see [Scrolling Demo](https://github.com/ActionTemple/Scrolling-Demo-Javascript) 
+- **C** - intermediate level; as part of CS50 I implemented an image processor with blur, sepia, greyscale, and reflection filters 
+- **Javascript** - effective implementation of interactive features in websites I have built
+- **SQL** - as demonstrated by the backend database of Ethereum Block Explorer, using SQLlite
+- **HTML/CSS** - all main projects demonstrate a working knowledge of these skills
+- **Flask** - my two current main projects are Flask web apps; see Ethereum Block Explorer and The Big House
 - **Tools** - Git, VS Code, Linux environment
 
 **What I Bring Beyond Code:**
@@ -29,5 +33,5 @@ Keeping with the retro-computing theme, I'm working on a scrolling ASCII text de
 
 ## 📬 Contact
 💼 [LinkedIn](https://www.linkedin.com/in/andrew-w-14180670/)  
-📍 Ho Chi Minh City, Vietnam • Open to remote opportunities
+ • Open to remote opportunities
 
