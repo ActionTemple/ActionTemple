@@ -7,7 +7,7 @@
 **About Me**
 
 CS graduate with a background in teaching transitioning to software development.
-Inspired by enthusiasm for the 8 and 16 bit era of computing, my final project for CS50p was a fully functioning, moderately complex text adventure, The Big House, which playtesters (my friends) have reported sufficiently challenging not to have been able to complete in an evening.
+Inspired by enthusiasm for the 8 and 16 bit era of computing, my final project for CS50P (Python) was a fully functioning, moderately complex text adventure, The Big House, which playtesters (my friends) have reported sufficiently challenging not to have been able to complete in an evening.
 You can have a go at the Flask web version [here](https://andrew-waddington.onrender.com/big-house), or watch a video demo [here](https://youtu.be/hfWx1SkJ-mA).
 
 **What I'm doing at the moment**
